@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm I'm Thiago Lopes - aka Lopes 🇧🇷</h1>
+<h1 align="center">Hi 👋, I'm Thiago Lopes - aka Lopes 🇧🇷</h1>
 <h3 align="center">A person that loves to learn and share contents with the community</h3>
 
 - 🔭 I’m currently working on **projects that uses AWS solution**
