@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Thiago Lopes - aka Lopes 🇧🇷</h1>
 <h3 align="center">A person that loves to learn and share contents with the community</h3>
 
-- 🔭 I’m currently working on **projects that uses AWS solution**
+- 🔭 I’m currently working on **Backend Java projects with Spring Boot**
 
-- 💬 Ask me about **android, pandas, web api, aws and unit testing**
+- 💬 Ask me about **android, web api, aws and unit testing**
 
 - 👯 I’m looking to collaborate on **mobile, data science and web api solutions**
 
