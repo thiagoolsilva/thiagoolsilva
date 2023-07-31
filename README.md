@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **mobile, data science and web api solutions**
 
-- 🌱 I’m currently learning **cloud solutions, docker and flutter**
+- 🌱 I’m currently learning **Spring boot with java**
 
 - 📝 I regularly write articles on [https://medium.com/@thiagolopessilva](https://medium.com/@thiagolopessilva)
 
