@@ -15,6 +15,9 @@
 
 - 👨‍💻 All of my projects are available at **https://github.com/thiagoolsilva**
 
+- 🧑‍💻 my plugins
+* https://www.npmjs.com/package/@husky-hook-creator/core?activeTab=readme
+* https://marketplace.visualstudio.com/items?itemName=thiagoolsilva.unique-id
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoolsilva&layout=compact&hide=html" alt="thiagoolsilva" /></p>
 
