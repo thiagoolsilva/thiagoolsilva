@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Thiago Lopes - aka Lopes 🇧🇷</h1>
 <h3 align="center">A person that loves to learn and share contents with the community</h3>
 
-- 🔭 I’m currently working on **Backend Java projects with Spring Boot**
+- 🔭 I’m currently working on **Backend Python projects with fastAPI**
 
 - 💬 Ask me about **android, web api, aws and unit testing**
 
 - 👯 I’m looking to collaborate on **mobile, data science and web api solutions**
 
-- 🌱 I’m currently learning **Spring boot with java**
+- 🌱 I’m currently learning **fastAPI**
 
 - 📝 I regularly write articles on [https://medium.com/@thiagolopessilva](https://medium.com/@thiagolopessilva)
 
